@@ -28,7 +28,10 @@
             System.out.println(list[2][4]);
 
 //code to change five of the values to positive
-
+            list[1][4] = -2;
+            list[0][2] =-3;
+            list[2][2] = -2;
+            list[1][5] = -8;
 
 //and the other four to negative
 
