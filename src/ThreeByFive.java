@@ -50,7 +50,6 @@ System.out.println(" ");
             System.out.println(nums[2][2]);
             System.out.println(nums[2][3]);
             System.out.println(nums[2][4]);
-
         }
     }
 
