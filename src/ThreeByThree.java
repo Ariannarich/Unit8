@@ -47,7 +47,6 @@
             System.out.println(list[1][1]);
             System.out.println(list[1][2]);
 
-
             System.out.println(list[2][0]);
             System.out.println(list[2][1]);
             System.out.println(list[2][2]);
